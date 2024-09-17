@@ -16,22 +16,26 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 If you want to folllow up how it was developed please visit [https://youtu.be/G-Cr00UYokU?feature=shared]
 
 # Here is a live demo of the live website:
+
 <a href="https://clouthacker.github.io/react-portfolio">
   <button type="button" class="btn btn-outline-primary">Visit Site</button>
 </a>
+
 Here are the screenshots of the project:
+
 <h2>Sections in the project</h2>
-| Home | about |
+
+|                        Home                        |                       about                        |
 | :------------------------------------------------: | :------------------------------------------------: |
 | ![](<src/assets/screenshots/Screenshot%20(1).png>) | ![](<src/assets/screenshots/Screenshot%20(2).png>) |
-| Experience | Services |
+|                     Experience                     |                      Services                      |
 | :------------------------------------------------: | :------------------------------------------------: |
-| ![](<src/assets/screenshots/Screenshot (3).png>) | ![](<src/assets/screenshots/Screenshot%20(4).png>) |
-| Portfolio | Testimonials |
+|  ![](<src/assets/screenshots/Screenshot (3).png>)  | ![](<src/assets/screenshots/Screenshot%20(4).png>) |
+|                     Portfolio                      |                    Testimonials                    |
 | :------------------------------------------------: | :------------------------------------------------: |
 | ![](<src/assets/screenshots/Screenshot%20(5).png>) | ![](<src/assets/screenshots/Screenshot%20(6).png>) |
-| Contact | Footer |
+|                      Contact                       |                       Footer                       |
 | :------------------------------------------------: | :------------------------------------------------: |
-| ![](<src/assets/screenshots/Screenshot (7).png>) | ![](<src/assets/screenshots/Screenshot%20(8).png>) |
+|  ![](<src/assets/screenshots/Screenshot (7).png>)  | ![](<src/assets/screenshots/Screenshot%20(8).png>) |
 
 Thanks for visiting my Account🙏.
