@@ -115,6 +115,44 @@ img {
   object-fit: scale-down;
 }
 
+/* doing the extra styling for awesome animations */
+.loading-on-hover:hover {
+  position: relative;
+  overflow: hidden;
+}
+.loading-on-hover:hover:before {
+  position: absolute;
+  content: "";
+  height: 69%;
+  width: 140%;
+  left: calc(50% - 69%);
+  background: linear-gradient(#1cbea3, var(--color-bg-variant));
+  animation: rotate 2s infinite;
+  filter: blur(5px);
+  z-index: -1;
+}
+
+.loading-on-hover:hover::after {
+  position: absolute;
+  content: "";
+  height: 96%;
+  width: 96%;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  background-color: inherit;
+  z-index: -1;
+}
+
+@keyframes rotate {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
 /* ************** MEDIA QUERIES (MEDIUM DEVICES) ******** */
 @media screen and (max-width: 1024px) {
   .container {

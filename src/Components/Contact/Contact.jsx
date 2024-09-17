@@ -47,9 +47,7 @@ const Contact = () => {
             <FaWhatsapp className="contact__option-icon" />
             <h4>Whatsapp</h4>
             <h5>+254705****54</h5>
-            <a href="https://api.whatsapp.com/send?phone+254705676454">
-              Send a Message
-            </a>
+            <a href="https://wa.me/+254705676454">Send a Message</a>
           </article>
         </div>
         <form ref={form} onSubmit={sendEmail}>

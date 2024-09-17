@@ -18,7 +18,7 @@ nav .main__icon {
   padding: 0.2rem;
   border-radius: 50%;
   display: flex;
-  color: var(--color-white);
+  color: var(--color-white) !important;
   font-size: 1.1rem;
   transition: var(--transition);
 }
@@ -33,4 +33,8 @@ nav .active {
 }
 nav ul li {
   display: inline-block;
+}
+
+nav svg {
+  fill: var(--color-white);
 }
