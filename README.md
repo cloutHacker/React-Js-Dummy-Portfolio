@@ -13,6 +13,10 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 If you want to folllow up how it was developed please visit [https://youtu.be/G-Cr00UYokU?feature=shared]
 
+# Here is a live demo of the live website:
+<a href="https://clouthacker.github.io/react-portfolio">
+  <button type="button" class="btn btn-outline-primary">Visit Site</button>
+</a>
 Here are the screenshots of the project:
                                     <h2>Sections in the project</h2>
 |                    Home                            |                   about                            |
